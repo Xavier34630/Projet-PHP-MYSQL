@@ -1,0 +1,31 @@
+.titre {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align : center;
+        }
+.table_gauche {
+    border-collapse : separate;
+    border-spacing: 15px 20px ;
+    text-align : center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.match1_choix1,.match1_choix2,.match1_choix3,.match2_choix1,.match2_choix2,.match2_choix3,.match3_choix1,.match3_choix2,.match3_choix3,.match4_choix1,.match4_choix2,.match4_choix3,.match5_choix1,.match5_choix2,.match5_choix3
+.match6_choix1,.match6_choix2,.match6_choix3,.match7_choix1,.match7_choix2,.match7_choix3,.match8_choix1,.match8_choix2,.match8_choix3,.match9_choix1,.match9_choix2,.match9_choix3,.match10_choix1,.match10_choix2,.match10_choix3 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align : center;
+}
+.mise_gain,.bordure {
+    border: 1px solid black;
+    border-collapse: separate;
+    text-align : center;
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type="number"] {
+    width: 115px;
+  }
